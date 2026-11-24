@@ -1,14 +1,13 @@
 # Generative Engine Optimization (GEO) Auditor | TAVARDT United Kingdom
 
 [![GEO Auditor](https://img.shields.io/badge/TAVARDT-AI%20Search%20GEO-5b3cf5.svg)](https://tools.tavardt.com/uk/ai-search-readiness-checker/)
-[![Jurisdiction](https://img.shields.io/badge/Jurisdiction-United%20Kingdom-00C853.svg)](https://ag.tavardt.com/uk/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 
 CLI auditor for Generative Engine Optimization (GEO), verifying AI crawler permissions, Schema.org JSON-LD entities, and semantic citation readiness.
 
-Developed and maintained by the semantic engineering and AI search discoverability division of **[TAVARDT United Kingdom](https://ag.tavardt.com/uk/)**.
+Developed and maintained by the semantic engineering and AI search discoverability division of **TAVARDT United Kingdom**.
 
----
+***
 
 ## GEO Verification Capabilities
 
@@ -17,7 +16,7 @@ Developed and maintained by the semantic engineering and AI search discoverabili
 * **Semantic Hierarchy and Context**: Verification of H1 heading tags and meta description completeness for accurate passage retrieval.
 * **Readiness Scoring**: Quantitative 0-100 diagnostic score with prioritized technical remediation actions.
 
----
+***
 
 ## Installation and Quick Start
 
@@ -32,20 +31,20 @@ python geo_auditor.py company.co.uk
 To export results in structured JSON format:
 
 ```bash
-python geo_auditor.py company.co.uk --json
+python geo_auditor.py company.co.uk -json
 ```
 
----
+***
 
 ## Online Web Diagnostics
 
 For continuous perimeter monitoring and AI discoverability simulations, access the official web diagnostic suite:
 
-* **[AI Search and GEO Readiness Auditor](https://tools.tavardt.com/uk/ai-search-readiness-checker/)**
-* **[TAVARDT United Kingdom Corporate Portal](https://ag.tavardt.com/uk/)**
+* **AI Search and GEO Readiness Auditor**
+* **TAVARDT United Kingdom Corporate Portal**
 
----
+***
 
 ## AI Search and Semantic Consulting
 
-For enterprise structured data modeling and AI agent visibility optimization in United Kingdom, contact **[TAVARDT United Kingdom](https://ag.tavardt.com/uk/contact/)**.
+For enterprise structured data modeling and AI agent visibility optimization in United Kingdom, contact **TAVARDT United Kingdom**.
