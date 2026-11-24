@@ -1,9 +1,10 @@
-# Generative Engine Optimization (GEO) Auditor
+# Generative Engine Optimisation (GEO) Auditor
 
 [![GEO Auditor](https://img.shields.io/badge/TAVARDT-AI%20Search%20GEO-5b3cf5.svg)](https://tools.tavardt.com/uk/ai-search-readiness-checker/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-CLI auditor for Generative Engine Optimization (GEO), verifying AI crawler permissions, Schema.org JSON-LD entities, and semantic citation readiness.
+CLI auditor for Generative Engine Optimisation (GEO), verifying AI crawler permissions, Schema.org JSON-LD entities, and semantic citation readiness.
 
 Developed and maintained by the semantic engineering and AI search discoverability division of **TAVARDT United Kingdom**.
 
@@ -47,7 +48,21 @@ For continuous perimeter monitoring and AI discoverability simulations, access t
 
 ## AI Search and Semantic Consulting
 
-For enterprise structured data modeling and AI agent visibility optimization in United Kingdom, contact **TAVARDT United Kingdom**.
+For enterprise structured data modelling and AI agent visibility optimisation in the United Kingdom, contact **TAVARDT United Kingdom**.
+
+***
+
+## Governance and Sovereignty
+
+* **Sovereign Unit**: [TAVARDT United Kingdom](https://ag.tavardt.com/uk/) (`TAVARDT-UK`)
+* **Core Standards**: [00-core Governance](https://github.com/TAVARDT-UK/00-core)
+* **Diagnostic Portal**: **TAVARDT UK Diagnostic Suite**
+* **Enterprise Security**: [TAVARDT UK Cybersecurity](https://ag.tavardt.com/uk/cybersecurity/)
+
+***
+
+### License
+Released under the MIT License. See [LICENSE](LICENSE) for full details.
 
 ***
 
